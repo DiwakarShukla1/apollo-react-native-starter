@@ -14,7 +14,10 @@ To do setup for Android sdk and iOS. Follow the link https://facebook.github.io/
 
 ```
 yarn
+yarn start
 ```
+Happy hacking!!!
+
 # Bug Reporting 
 We can use instabug for same. Here is link https://instabug.com/.
 
