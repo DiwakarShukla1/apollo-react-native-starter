@@ -29,3 +29,10 @@ Follow the link https://facebook.github.io/react-native/docs/signed-apk-android.
 
 # Internationalization
 Follow the link https://github.com/AlexanderZaytsev/react-native-i18n.
+
+# Learn Related Technologies
+* React Native https://facebook.github.io/react-native/ .
+* Apollo Client https://www.apollographql.com/docs/react/ .
+
+# Find Great React Native libraries
+https://github.com/jondot/awesome-react-native.
