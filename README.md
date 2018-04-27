@@ -26,3 +26,6 @@ Follow the link https://medium.com/bam-tech/generate-your-react-native-app-icons
 
 # Signing Apk
 Follow the link https://facebook.github.io/react-native/docs/signed-apk-android.html.
+
+# Internationalization
+Follow the link https://github.com/AlexanderZaytsev/react-native-i18n.
