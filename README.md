@@ -10,7 +10,7 @@
 * Analytics 
 
 # Installation
-To Do setup for Android sdk and iOS. Follow the link https://facebook.github.io/react-native/docs/getting-started.html. And then follow bellow command.
+To do setup for Android sdk and iOS. Follow the link https://facebook.github.io/react-native/docs/getting-started.html. And then follow bellow command.
 
 ```
 yarn
