@@ -1,0 +1,26 @@
+{
+  "name": "apollo_starter_kit",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "rm ./node_modules/react-native/local-cli/core/__fixtures__/files/package.json || true && react-native start --transformer node_modules/react-native-typescript-transformer/index.js --sourceExts ts,tsx",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "16.3.1",
+    "react-native": "0.55.3",
+    "react-native-vector-icons": "^4.6.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.3.13",
+    "babel-jest": "22.4.3",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.4.3",
+    "react-native-typescript-transformer": "^1.2.5",
+    "react-test-renderer": "16.3.1",
+    "typescript": "^2.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

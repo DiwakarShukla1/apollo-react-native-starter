@@ -1,0 +1,11 @@
+{
+    "extends": [
+      "tslint:recommended"   
+    ],
+    "jsRules": {},
+    "rules": {
+      "member-access": false,
+      "ordered-imports": false
+    },
+    "rulesDirectory": []
+}
