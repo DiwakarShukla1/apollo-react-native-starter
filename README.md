@@ -10,3 +10,6 @@
 ```
 yarn
 ```
+# Bug Reporting 
+We can use instabug for same. Here is link https://instabug.com/.
+
