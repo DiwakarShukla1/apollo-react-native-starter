@@ -20,3 +20,6 @@ We can use instabug for same. Here is link https://instabug.com/.
 
 # Rename Project
 To Rename App (Android and iOS both). Use react-native-rename npm. Link https://www.npmjs.com/package/react-native-rename.
+
+# Generate Icons for App
+Follow the link https://medium.com/bam-tech/generate-your-react-native-app-icons-in-a-single-command-line-145af2e329b2
