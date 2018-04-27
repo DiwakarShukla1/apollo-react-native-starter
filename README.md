@@ -23,3 +23,6 @@ To Rename App (Android and iOS both). Use react-native-rename npm. Link https://
 
 # Generate Icons for App
 Follow the link https://medium.com/bam-tech/generate-your-react-native-app-icons-in-a-single-command-line-145af2e329b2
+
+# Signing Apk
+Follow the link https://facebook.github.io/react-native/docs/signed-apk-android.html
