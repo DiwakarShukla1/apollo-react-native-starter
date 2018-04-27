@@ -4,7 +4,10 @@
 # Settings
 * Typescript with linting
 * Vector Icons
-* Apollo Client 
+* Apollo Client
+* Code Push
+* Crashlytics
+* Analytics 
 
 # Installation
 ```
