@@ -5,3 +5,8 @@
 * Typescript with linting
 * Vector Icons
 * Apollo Client 
+
+# Installation
+```
+yarn
+```
